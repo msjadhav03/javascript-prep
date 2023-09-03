@@ -1,4 +1,4 @@
-# javascript-prep
+# JavaScript
 
 <p>  
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" alt="Angular Logo" height="260">
